@@ -1,4 +1,4 @@
-# STWN
+# AGC-net
 
 ## Prepare:
 ```

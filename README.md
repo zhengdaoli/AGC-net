@@ -12,7 +12,7 @@ If you find this work useful for your research, please cite our paper:
 
 ```bibtex
 
-@misc{li2023adaptive,
+@article{li2023adaptive,
       title={Adaptive Graph Convolution Networks for Traffic Flow Forecasting}, 
       author={Zhengdao Li and Wei Li and Kai Hwang},
       year={2023},

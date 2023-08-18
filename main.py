@@ -5,9 +5,7 @@ from model import *
 import matplotlib.pyplot as plt
 import time
 import os
-from gwnn_model import *
 from fastprogress import progress_bar
-from exp_results import summary
 
 os.environ['KMP_DUPLICATE_LIB_OK'] = 'True'
 

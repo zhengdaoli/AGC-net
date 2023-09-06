@@ -41,7 +41,7 @@ pip install -r requirements -i http://mirrors.aliyun.com/pypi/simple/ --trusted-
 
 
 
-To prepare the data, please make sure you have the METR-LA dataset placed inside the `./data/` directory in a sub-directory named `METR-LA-12`. If you don't have the dataset, you can download it from the [official repository](#) (Note: replace with the appropriate link). The `feature_len` parameter denotes the feature length of the dataset. Here, we use a `feature_len` of 3.
+To prepare the data, please make sure you have the METR-LA dataset placed inside the `./data/` directory in a sub-directory named `METR-LA-12`. If you don't have the dataset, you can download it from the [DCRNN](https://github.com/liyaguang/DCRNN) (Note: replace with the appropriate link). The `feature_len` parameter denotes the feature length of the dataset. Here, we use a `feature_len` of 3.
 
 
 ## Training
